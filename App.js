@@ -9,7 +9,7 @@ export default function App() {
         <SafeAreaProvider>
             <SafeAreaView>
                 <View style={s.square}>
-                    <Text style={{color: "red", backgroundColor: "yellow"}}>Hello tout court on android and iOs !
+                    <Text style={{color: "white", backgroundColor: "green"}}>Hello tout court on android and iOs !
                         !</Text>
                     <Text>Hello numero 2</Text>
                     <Text>Hello numero 3</Text>
