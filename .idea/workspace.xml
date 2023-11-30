@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4bedf0f-9ef5-4cd5-aa59-4ac3ad604078" name="Changes" comment="" />
+    <list default="true" id="b4bedf0f-9ef5-4cd5-aa59-4ac3ad604078" name="Changes" comment="premier commit push">
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Human/Human.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Human/Human.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +23,6 @@
       </list>
     </option>
     <option name="SCHEME" value="Project" />
-  </component>
-  <component name="FormatOnSaveOptions">
-    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +45,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="actions.on.save" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,11 +60,40 @@
       <workItem from="1700494173077" duration="2370000" />
       <workItem from="1700731696844" duration="884000" />
       <workItem from="1700732671369" duration="376000" />
+      <workItem from="1700733406710" duration="2947000" />
+      <workItem from="1700812299888" duration="814000" />
+      <workItem from="1700820448046" duration="155000" />
+      <workItem from="1700919173760" duration="29000" />
+      <workItem from="1701245826055" duration="464000" />
+      <workItem from="1701333898172" duration="5779000" />
     </task>
+    <task id="LOCAL-00001" summary="premier commit push">
+      <created>1700733458074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700733458074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="premier commit push" />
+    <option name="LAST_COMMIT_MESSAGE" value="premier commit push" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
