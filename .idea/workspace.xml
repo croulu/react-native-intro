@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4bedf0f-9ef5-4cd5-aa59-4ac3ad604078" name="Changes" comment="premier commit push">
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+    <list default="true" id="b4bedf0f-9ef5-4cd5-aa59-4ac3ad604078" name="Changes" comment="props et children">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.style.js" afterDir="false" />
@@ -65,7 +64,8 @@
       <workItem from="1700820448046" duration="155000" />
       <workItem from="1700919173760" duration="29000" />
       <workItem from="1701245826055" duration="464000" />
-      <workItem from="1701333898172" duration="5779000" />
+      <workItem from="1701333898172" duration="5987000" />
+      <workItem from="1701354261006" duration="1095000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit push">
       <created>1700733458074</created>
@@ -93,7 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="premier commit push" />
-    <option name="LAST_COMMIT_MESSAGE" value="premier commit push" />
+    <MESSAGE value="props et children" />
+    <option name="LAST_COMMIT_MESSAGE" value="props et children" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

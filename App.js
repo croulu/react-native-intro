@@ -17,9 +17,9 @@ export default function App() {
                     <Human
                         firstName={"Peter"}
                         lastName={"Parker"}
-                        age={42}
+                        age={49}
                         car={{ brand: "Peugeot", maxSpeed: 220 }}
-                        isHappy={true}
+                        isHappy={false}
                         doSomething={function () {
                             console.log("à la volée");
                         }}

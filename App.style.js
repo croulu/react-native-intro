@@ -3,7 +3,7 @@ import {StyleSheet} from "react-native";
 export const s = StyleSheet.create({
     square: {
         backgroundColor: "pink",
-        height: 350,
+        height: 400,
         width: "70%"
     },
     rectangle: {},
