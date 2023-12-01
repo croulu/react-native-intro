@@ -1,12 +1,11 @@
-import {SafeAreaProvider} from "react-native-safe-area-context/src/SafeAreaContext";
-import {SafeAreaView} from "react-native-safe-area-context";
-import {HumanHome} from "./components/Human/HumanHome";
+import {SafeAreaProvider, SafeAreaView} from "react-native-safe-area-context";
+import {Flex02} from "./components/Flex/Flex02";
 
 export default function App() {
     return (
         <SafeAreaProvider>
-            <SafeAreaView>
-                <HumanHome />
+            <SafeAreaView style={{ backgroundColor: "grey", flex: 1 }}>
+                <Flex02 />
             </SafeAreaView>
         </SafeAreaProvider>
     );
