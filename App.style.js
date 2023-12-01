@@ -13,5 +13,12 @@ export const s = StyleSheet.create({
     },
     grosTexte: {
         fontSize: 50,
+    },
+    moyenTexte: {
+        fontSize: 30,
+    },
+    petitTexte: {
+        fontSize: 20,
+        color:"white",
     }
 });

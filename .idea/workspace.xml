@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4bedf0f-9ef5-4cd5-aa59-4ac3ad604078" name="Changes" comment="props et children" />
+    <list default="true" id="b4bedf0f-9ef5-4cd5-aa59-4ac3ad604078" name="Changes" comment="props et children">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.style.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +66,9 @@
       <workItem from="1701333898172" duration="5987000" />
       <workItem from="1701354261006" duration="1288000" />
       <workItem from="1701355610651" duration="2957000" />
-      <workItem from="1701416066313" duration="3212000" />
+      <workItem from="1701416066313" duration="3315000" />
+      <workItem from="1701438128639" duration="48000" />
+      <workItem from="1701438194536" duration="3187000" />
     </task>
     <task id="LOCAL-00001" summary="premier commit push">
       <created>1700733458074</created>
